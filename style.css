@@ -8,4 +8,7 @@
 .main-heading{
     background-color:blue;
     color: white;
+    text-align: center;
+    animation: heading-roll-in 3s;
+
 }
